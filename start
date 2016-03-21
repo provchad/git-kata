@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "Welcome to Git Katas"
+echo ""
+echo "To start the first kata, run ./kata0.sh"
+echo ""
+echo "Once you achieve the desired goal,
+run the next one - ./kata1.sh
+
+If you get stuck, check README.md for command reference"
